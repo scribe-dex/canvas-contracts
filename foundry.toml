@@ -3,6 +3,8 @@ src = "src"
 out = "out"
 libs = ["lib"]
 solc = "0.8.19"
+block_base_fee_per_gas = 0
+gas_limit = 1073741824
 
 [fmt]
 line_length = 120
